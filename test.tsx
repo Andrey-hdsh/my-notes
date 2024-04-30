@@ -1,4 +1,1 @@
-const newInterfase = {
-    error: String,
-    isOnline: Boolean,
-};
+let a ;
