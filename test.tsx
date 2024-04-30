@@ -1,1 +1,1 @@
-let a ;
+let arr : String ;
