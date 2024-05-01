@@ -18,13 +18,13 @@ console.log(sum);
 const sortArray  = array.sort((a , b ) => b - a)
 console.log(sortArray);
 
-const uniqueNumbers = Array.from(new Set(array));
+// const uniqueNumbers = Array.from(new Set(array));
 
-console.log(uniqueNumbers);
+// console.log(uniqueNumbers);
 
-const newUniqueNumbers  = array.filter((value , i, self) => self.indexOf(value) === i)
+// const newUniqueNumbers  = array.filter((value , i, self) => self.indexOf(value) === i)
 
-const str = "andRey";
+// const str = "andRey";
 
 
-console.log(Array.from(str.toUpperCase()));
+// console.log(Array.from(str.toUpperCase()));
